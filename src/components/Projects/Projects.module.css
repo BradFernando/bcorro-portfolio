@@ -1,0 +1,27 @@
+@import "../../vars.css";
+
+.container {
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+  color: var(--color-text);
+}
+
+.title {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  text-align: left; /* Cambiar de centrado a alineación a la izquierda */
+  margin-left: 0; /* Asegurarse de que no haya margen adicional a la izquierda */
+}
+
+
+.projects {
+  margin-top: 37px;
+  display: grid; /* Usamos Grid en lugar de Flex para mayor control */
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Ajuste automático de columnas */
+  gap: 20px; /* Espaciado uniforme entre las tarjetas */
+  justify-content: center;
+  width: 100%;
+}

@@ -1,0 +1,37 @@
+[
+    {
+      "role": "Freelance Developer",
+      "organisation": "Self-Employed",
+      "startDate": "Sept, 2022",
+      "endDate": "Present",
+      "experiences": [
+        "Developed customized web and mobile solutions",
+        "Ensured scalable, secure, and high-performance applications"
+      ],      
+      "imageSrc": "history/freelancer.png"
+    },
+    {
+      "role": "Software Developer",
+      "organisation": "iDrix Technology S.A",
+      "startDate": "Sept, 2023",
+      "endDate": "Jan, 2024",
+      "experiences": [
+        "Developed an Android app for ZicoArt using Flutter",
+        "Designed intuitive UI interfaces to enhance user experience",
+        "Improved app performance and ensured high-quality standards"
+      ],
+      "imageSrc": "history/iDrix.png"
+    },
+    {
+      "role": "Software Testing Developer",
+      "organisation": "Acurio y Asociados (Atrums IT)",
+      "startDate": "Sept, 2022",
+      "endDate": "Nov, 2022",
+      "experiences": [
+        "Automated data processing with Python scripts",
+        "Created routines in Pentaho to optimize data workflows",
+        "Improved operational efficiency and precision in Windows Server"
+      ],
+      "imageSrc": "history/atrumsit.png"
+    }    
+  ]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pasteurization Management System",
+    "imageSrc": "projects/pasteurization.jpg",
+    "description": "Comprehensive system for managing pasteurization processes and controlling sales to small and large businesses. The backend is developed with Spring Boot, the frontend with Angular, and it utilizes Docker for microservices and RabbitMQ for messaging queues.",
+    "skills": ["Spring Boot", "Angular", "Docker", "RabbitMQ"],
+    "demo": null,
+    "source": "https://github.com/BradFernando/Backend_Pasteurizadora_Grupo2"
+  },
+  {
+    "title": "Project Manager API",
+    "imageSrc": "projects/pms.jpeg",
+    "description": "API for project management, providing endpoints to create, update, and delete projects, assign tasks and resources. Includes an Android application built with Flutter for employee reporting and an API gateway implemented with Nginx, comprising a total of two microservices and the mobile app.",
+    "skills": ["Node.js", "Express", "MongoDB", "Flutter", "Nginx"],
+    "demo": null,
+    "source": "https://github.com/BradFernando/project-manager-api"
+  },
+  {
+    "title": "Gastronomic Orders System with AI-Powered Telegram Bots",
+    "imageSrc": "projects/gs.jpg",
+    "description": "System named 'Gastronomic Orders System' utilizing AI-enhanced Telegram bots for order management in gastronomic establishments. Developed with Next.js for the frontend, FastAPI for the backend, and integrated with the Telegram API.",
+    "skills": ["Next.js", "FastAPI", "Telegram API"],
+    "demo": null,
+    "source": "https://github.com/BradFernando/gastronomy-system-model"
+  }
+]

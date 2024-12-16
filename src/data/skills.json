@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Spring",
+      "imageSrc": "skills/spring.png"
+    },
+    {
+      "title": ".NET",
+      "imageSrc": "skills/net-framework.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Fast API",
+      "imageSrc": "skills/fast-api.png"
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "skills/angular.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Flutter",
+      "imageSrc": "skills/flutter.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "skills/ubuntu.png"
+    }
+  ]
